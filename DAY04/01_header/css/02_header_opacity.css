@@ -23,7 +23,7 @@ body {
 
 header {
     width: 100%; height: 100px; padding: 0 40px; box-sizing: border-box;
-    line-height: 100; color: #fff; background-color: rgba(96, 77, 62, 0.3);
+    line-height: 100px; color: #fff; background-color: rgba(96, 77, 62, 0.3);
     position: fixed; top: 0; z-index: 100;
 }
 
@@ -34,7 +34,7 @@ header .menuOpen {
     transform: translateY(-50%);
     width: 40px;
     height: 16px;
-    line-height: 100;
+    line-height: 100px;
 }
 
 header .menuOpen span {
