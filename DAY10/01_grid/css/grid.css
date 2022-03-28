@@ -115,7 +115,7 @@
 .align-stretch {align-content: stretch;}
 
 /* justify-content */
-/*.justify {grid-auto-flow: column;}*/
+.justify {grid-auto-flow: column;}
 .justify-start {justify-content: start;}
 .justify-end {justify-content: end;}
 .justify-center {justify-content: center;}

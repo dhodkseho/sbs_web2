@@ -81,9 +81,8 @@
     /* 배치될 grid 아이템의 영역이름 지정 */
     /* 1열    2열    3열    4열 */
     'header header header header' /* 1행 */
-    'aside  aside  aside  aside'  /* 2행 */
-                                  /* 3행 */
-    'footer footer footer footer' /* 4행 */
+    'aside  aside  main   main'   /* 2행 */
+    'footer footer footer footer' /* 3행 */
     ;
 }
 
