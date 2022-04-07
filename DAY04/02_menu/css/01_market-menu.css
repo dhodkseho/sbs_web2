@@ -66,7 +66,7 @@ header {margin-bottom: 20px;}
 }
 
 #gnb .gnb_kurly {width: 1050px; background-color: white; letter-spacing: -1;}
-#gnb .inner_gnbkurly {position: relative; width: 1050px; height: 56px; margin: 0 auto;}
+#gnb .inner_gnbkurly {position: relative; width: 1050px; height: 56px; margin: 0 auto; border: 1px solid black;}
 
 /* 메뉴 영역 - 메인메뉴 */
 #gnb .gnb_main ul.gnb a {
